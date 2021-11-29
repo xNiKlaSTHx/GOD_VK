@@ -29,7 +29,7 @@ local a = syn.request({
 
 print(a.Body)
 if a.Body == syn.crypt.base64.encode("KEY PASS")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time()))..syn.crypt.base64.encode("HWID PASS")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time())) then
-   print("WHITELISTED!!!") 
+   loadstring(game:HttpGet("https://og-edition.000webhostapp.com/ScriptGODHUB_hrfy4sd8a0e94hgy1dus4d1j15gdct.lua"))()
 elseif a.Body == syn.crypt.base64.encode("KEY PASS")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time()))..syn.crypt.base64.encode("INVAID HWID")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time())) then
  game.Players.LocalPlayer:Kick("INVAID HWID")
 elseif a.Body == syn.crypt.base64.encode("INVAID KEY")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time()))..syn.crypt.base64.encode("INVAID HWID")..syn.crypt.base64.encode(syn.crypt.base64.encode(os.time())) then
