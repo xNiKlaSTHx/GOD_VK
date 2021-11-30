@@ -1,5 +1,3 @@
----_G.Key = "GODHUB-NO1-OLX0-iuyI10L" ///Your Key
-
 
 ------- script -------
 
