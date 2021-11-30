@@ -23,7 +23,7 @@ end
 end
 
 local a = syn.request({
-    Url = "https://25.18.83.176/server1.php?key="..key.."&random="..hwid,
+    Url = "https://25.18.83.176/server.php?key="..key.."&random="..hwid,
     Method = "GET"
 })
 
