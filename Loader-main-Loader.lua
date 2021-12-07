@@ -5,4 +5,4 @@ wait(5)
 
 -----------------------------
 
-loadstring(game:HttpGet("https://og-edition.000webhostapp.com/ScriptCURSED.HUB_dhkjserthohukolegwer5t4sdhddg56zre.lua"))() ---SCRIPT .HUB
+loadstring(game:HttpGet("https://og-edition.000webhostapp.com/ScriptCURSED.HUB_dhkjseergfjdhstHv5t4sdhddg56zregmsmsotvde.lua"))() ---SCRIPT .HUB
