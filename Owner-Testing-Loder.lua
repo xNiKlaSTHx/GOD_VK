@@ -724,7 +724,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				elseif  check.loacker ==  true then
@@ -766,7 +766,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 				TweenService:Create(
 					TextButton_2_Toggle,
 					TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-					{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+					{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 				):Play()
 				TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				check.toogle = true
@@ -1435,7 +1435,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 						TweenService:Create(
 							TextButton_2_Toggle,
 							TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-							{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+							{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 						):Play()
 						TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 					else
@@ -1480,7 +1480,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 					check2.toogle2 = true
@@ -3265,7 +3265,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				else
@@ -13341,7 +13341,7 @@ if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				elseif  check.loacker ==  true then
@@ -13383,7 +13383,7 @@ if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5
 				TweenService:Create(
 					TextButton_2_Toggle,
 					TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-					{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+					{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 				):Play()
 				TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				check.toogle = true
@@ -14052,7 +14052,7 @@ if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5
 						TweenService:Create(
 							TextButton_2_Toggle,
 							TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-							{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+							{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 						):Play()
 						TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 					else
@@ -14097,7 +14097,7 @@ if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 					check2.toogle2 = true
@@ -15882,7 +15882,7 @@ if game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId == 5
 					TweenService:Create(
 						TextButton_2_Toggle,
 						TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-						{BackgroundColor3 =  _G.Color} -- UDim2.new(0, 128, 0, 25)
+						{BackgroundColor3 =  _G.Color2} -- UDim2.new(0, 128, 0, 25)
 					):Play()
 					TextButton_3_Toggle:TweenSizeAndPosition(UDim2.new(0, 19, 0, 19), UDim2.new(1, 0, 0.5, 0), "Out", "Quad", 0.3, true)
 				else
